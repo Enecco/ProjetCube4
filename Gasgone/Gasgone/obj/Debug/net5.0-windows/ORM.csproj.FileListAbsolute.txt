@@ -1,0 +1,12 @@
+C:\Users\Dreamer\source\repos\Gasgone\bin\Debug\net5.0-windows\ORM.deps.json
+C:\Users\Dreamer\source\repos\Gasgone\bin\Debug\net5.0-windows\ORM.dll
+C:\Users\Dreamer\source\repos\Gasgone\bin\Debug\net5.0-windows\ref\ORM.dll
+C:\Users\Dreamer\source\repos\Gasgone\bin\Debug\net5.0-windows\ORM.pdb
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.csproj.AssemblyReference.cache
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.AssemblyInfoInputs.cache
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.AssemblyInfo.cs
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.csproj.CoreCompileInputs.cache
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.dll
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ref\ORM.dll
+C:\Users\Dreamer\source\repos\Gasgone\obj\Debug\net5.0-windows\ORM.pdb
